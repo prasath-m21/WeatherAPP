@@ -13,9 +13,6 @@ A simple web application that allows users to get real-time weather information 
   - Wind speed
 - Clean, responsive UI
 
-## Demo
-
-![Weather App Screenshot](screenshot.png) <!-- Add a screenshot image if available -->
 
 ## Getting Started
 
